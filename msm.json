@@ -1,1 +1,9 @@
+{
+  "security": "none",
+  "allowed_domains": [
+    "example.com",
+    "www.example.com",
+    "your-custom-domain.com"
+  ]
+}
 
