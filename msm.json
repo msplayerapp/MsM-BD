@@ -1,5 +1,5 @@
 {
-  "security": "none",
+  "security": "domains",
   "allowed_domains": [
     "example.com",
     "www.example.com",
