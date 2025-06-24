@@ -5,3 +5,11 @@ Afghanistan
 60
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 Bangladesh vs Afghanistan: Today's Big Match
+
+https://github.com/msplayerapp/MsM-BD/blob/main/image/00000000000000FB_IMG_1750596365120.jpg
+Bangladesh
+https://github.com/msplayerapp/MsM-BD/blob/main/image/00000000000000FB_IMG_1750596365120.jpg
+Afghanistan
+60
+https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
+Bangladesh vs Afghanistan: Today's Big Match
