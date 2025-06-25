@@ -4,7 +4,7 @@
       "yourdomain.com",
       "anotherdomain.com"
     ],
-    "security": "domains", // or "none"
-    "app_access_key": "mySuperSecretAppKey123!@#" // This must match APP_ACCESS_KEY in the script
+    "security": "domains",
+    "app_access_key": "mySuperSecretAppKey123!@#"
   }
 }
