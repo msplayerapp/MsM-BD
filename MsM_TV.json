@@ -4,7 +4,7 @@
       "yourdomain.com",
       "anotherdomain.com"
     ],
-    "security": "domains",
+    "security": "none",
     "app_access_key": "mySuperSecretAppKey123!@#"
   }
 }
