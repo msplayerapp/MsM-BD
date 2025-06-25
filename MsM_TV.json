@@ -1,10 +1,9 @@
 {
-  "security_config": {
-    "allowed_domains": [
-      "yourdomain.com",
-      "anotherdomain.com"
-    ],
-    "security": "none",
-    "app_access_key": "mySuperSecretAppKey123!@#"
-  }
+  "security": "none",
+  "allowed_domains": [
+    "yourdomain.com",
+    "anotherdomain.com",
+    "localhost"
+  ],
+  "app_access_key": "mySuperSecretAppKey123!@#"
 }
