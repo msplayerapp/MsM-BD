@@ -1,77 +1,10 @@
 {
-  "channel_stats": {
-    "akash_8_I0VYVElO": {
-      "views": 2
-    },
-    "b_tv_I0VYVElO": {
-      "views": 1
-    },
-    "bangla_tv_bd_I0VYVElO": {
-      "dislikes": 1,
-      "likes": 3,
-      "views": 6
-    },
-    "deepto_tv_I0VYVElO": {
-      "views": 1
-    },
-    "default_channel_WU9VUl9N": {
-      "likes": 26,
-      "views": 4
-    },
-    "default_channel_aHR0cHM6": {
-      "likes": 1,
-      "views": 9
-    },
-    "duronto_tv_I0VYVElO": {
-      "views": 1
-    },
-    "event_cricket_match:_team_a_vs_team_b_1750781760000": {
-      "likes": 6,
-      "views": 5
-    },
-    "maasranga_tv_I0VYVElO": {
-      "views": 1
-    },
-    "mohona_tv_I0VYVElO": {
-      "views": 1
-    },
-    "movie_bangla_I0VYVElO": {
-      "views": 2
-    },
-    "nick__bangla__I0VYVElO": {
-      "views": 1
-    },
-    "sonic_bengali_I0VYVElO": {
-      "views": 1
-    },
-    "sony_aath_I0VYVElO": {
-      "views": 1
-    },
-    "toffee_movies_vip_I0VYVElO": {
-      "views": 3
-    },
-    "vokta_tv_I0VYVElO": {
-      "views": 1
-    }
-  },
-  "messages": {
-    "-OTZt54cRFYXFL_mYHnn": {
-      "text": "hi",
-      "timestamp": 1750818120401,
-      "user": "Tmi"
-    }
-  },
   "security_config": {
     "allowed_domains": [
-      "your-primary-domain.com",
-      "another-allowed-domain.com",
-      "sub.your-primary-domain.com"
+      "yourdomain.com",
+      "anotherdomain.com"
     ],
-    "security": "none"
-  }
-},
-"config": {
-    "main_m3u_url": "https://example.com/my_channels.m3u"
+    "security": "domains", // or "none"
+    "app_access_key": "mySuperSecretAppKey123!@#" // This must match APP_ACCESS_KEY in the script
   }
 }
-
