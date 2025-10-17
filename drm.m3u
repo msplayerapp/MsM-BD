@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTM3U
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://lof.png", Channeli HD
+#EXTVLCOPT:http-referrer=https://static.jagobd.com.bd/
+#EXTVLCOPT:http-origin=https://static.jagobd.com.bd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="asiahindi" group-title="Event" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asia_Cup_Hindi.png",TNT 1 Sports 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
