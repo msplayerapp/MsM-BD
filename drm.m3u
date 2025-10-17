@@ -1,9 +1,1 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="asiahindi" group-title="Event" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asia_Cup_Hindi.png",TNT 1 Sports 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-#EXTINF:-1 tvg-id="1090492070" tvg-name="Asia Cup 2025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" tvg-language="English" group-title="Cricket",ENG | India's Asia Cup Glory 24x7
-https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760769004~acl=/*~id=36289038379963691926702630288357~hmac=793b8b08595f410e0ffb74e49ccfe41ee892e889411756540b47d8545534fcff
-#EXTINF:-1 tvg-id="1090492387" tvg-name="Taarak Mehta Ka Ooltah Chashmah" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/bolt_assets/landscape_thumb/1760480819531_1760463937929343_TMKOC_Channel_14oct_landscape_thumb.jpg" tvg-language="HINDI" group-title="Shows",HIN | Taarak Mehta Ka Ooltah Chashmah
-https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760769004~acl=/*~id=36289038379963691926702630288357~hmac=793b8b08595f410e0ffb74e49ccfe41ee892e889411756540b47d8545534fcff
+
