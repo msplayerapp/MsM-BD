@@ -7,12 +7,17 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/91
 https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760769004~acl=/*~id=36289038379963691926702630288357~hmac=793b8b08595f410e0ffb74e49ccfe41ee892e889411756540b47d8545534fcff
 #EXTINF:-1 tvg-id="1090492387" tvg-name="Taarak Mehta Ka Ooltah Chashmah" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/bolt_assets/landscape_thumb/1760480819531_1760463937929343_TMKOC_Channel_14oct_landscape_thumb.jpg" tvg-language="HINDI" group-title="Shows",HIN | Taarak Mehta Ka Ooltah Chashmah
 https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760769004~acl=/*~id=36289038379963691926702630288357~hmac=793b8b08595f410e0ffb74e49ccfe41ee892e889411756540b47d8545534fcff
-#EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1760791141~acl=%2fcmaf%2flive%2f2105503%2fAAJTAKHDNEWSELE%2f*~data=hdntl,non-ssai_ab359b73-943c-4bb3-b07d-a2b1cef67469~hmac=958d7d7bd0d9b89c5730ed48366053779d7a8d4cce2cc5a73b0ee8c8ba8d6667
-#EXTINF:-1 tvg-id="0-9-zeenews" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png",Zee News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105510/ZEENEWSELE/master.m3u8?hdntl=exp=1760791141~acl=%2fcmaf%2flive%2f2105503%2fAAJTAKHDNEWSELE%2f*~data=hdntl,non-ssai_ab359b73-943c-4bb3-b07d-a2b1cef67469~hmac=958d7d7bd0d9b89c5730ed48366053779d7a8d4cce2cc5a73b0ee8c8ba8d6667
-#EXTINF:-1 tvg-id="0-9-indiatoday" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Today.png",India Today
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105501/INDIATODAYHDNEWSELE/index-connected.m3u8?hdntl=exp=1760791141~acl=%2fcmaf%2flive%2f2105503%2fAAJTAKHDNEWSELE%2f*~data=hdntl,non-ssai_ab359b73-943c-4bb3-b07d-a2b1cef67469~hmac=958d7d7bd0d9b89c5730ed48366053779d7a8d4cce2cc5a73b0ee8c8ba8d6667
+#EXTINF:-1 group-title="-",SONY SPORTS TEN 3 - Rs 19.00
+http://103.182.170.32:8888/play/a03p
+#EXTINF:-1 group-title="-",SONY TEN 1 HD - Rs 19.00
+http://103.182.170.32:8888/play/a039
+#EXTINF:-1 group-title="-",SONY YAY! - Rs 4.00
+http://103.182.170.32:8888/play/a04m
+#EXTINF:-1 group-title="-",STAR GOLD HD - Rs 19.00
+http://103.182.170.32:8888/play/a02j
+#EXTINF:-1 group-title="-",STAR Movies HD - Rs 19.00
+http://103.182.170.32:8888/play/a029
+#EXTINF:-1 group-title="-",STAR Movies Select HD - Rs 19.00
+http://103.182.170.32:8888/play/a028
+#EXTINF:-1 group-title="-",STAR PLUS - Rs 19.00
+http://103.182.170.32:8888/play/a03o
