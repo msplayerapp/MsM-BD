@@ -3,7 +3,11 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-#EXTINF:-1 tvg-id="ZeeBanglaCinema" group-title="ENT" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/brmfgr.png",Zee Bangla Cinema SD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-bangla-cinema/drmLicense
-https://otttv.co.in/d2h/livestream/zee-bangla-cinema/manifest.mpd
+#EXTINF:-1 tvg-id="tensp" tvg-logo="https://raw.githubusercontent.com/hasanhabibmottakin/h2so4/main/img/t_sports.png", T Sports HD
+https://d15.epicquesthero.com:999/hls/tenspk.m3u8?md5=GC5HcJolupq6TarMbgGgHg&expires=1760740844
+#EXTINF:-1 tvg-id="ptvpk" tvg-logo="https://crichdi.com/assets/uploads/channels/18.png", PTV Sports
+https://d15.epicquesthero.com:999/hls/ptvpk.m3u8?md5=O7vKya9ld9a5fkJisJEeUw&expires=1760740844
+#EXTINF:-1 tvg-id="star" tvg-logo="https://crichdi.com/assets/uploads/channels/19.png", Star sports 1 HD
+https://d15.epicquesthero.com:999/hls/star1in.m3u8?md5=ka5XqtkEuK4weTQyYFMjkg&expires=1760740844
+#EXTINF:-1 tvg-id="star1hi" tvg-logo="https://crichdi.com/assets/uploads/channels/19.png", Star sports 1 Hindi HD
+https://d15.epicquesthero.com:999/hls/starhindi.m3u8?md5=1LoaVUAo9StKzPT_mQ4VGQ&expires=1760740844
