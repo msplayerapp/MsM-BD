@@ -6,6 +6,13 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"634e10efe4abbb14be400a3ccbac0258","kid":"192b1115da041585c77200128549efa1"}],"type":"temporary"}
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTM3U
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-chno="" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png", TOFFEE Sports VIP (Widevine)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashgo.yflix.top/license?id=e7eb2b46-bc76
+https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/index.mpd
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://lof.png", Channeli HD
 #EXTVLCOPT:http-referrer=https://static.jagobd.com.bd/
 #EXTVLCOPT:http-origin=https://static.jagobd.com.bd/
