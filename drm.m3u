@@ -21,3 +21,7 @@ http://103.182.170.32:8888/play/a029
 http://103.182.170.32:8888/play/a028
 #EXTINF:-1 group-title="-",STAR PLUS - Rs 19.00
 http://103.182.170.32:8888/play/a03o
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png", TOFFEE Sports VIP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1760908717:KeyName=prod_linear:Signature=7jN4BQ1UVRjbDlY41GHYmlxK_2pgx5CYaJlW1QJ_Rca3K3guy5g_6eIpIujyRQzaRPE41X_W_uSkaz3S4prPBw"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
