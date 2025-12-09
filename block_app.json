@@ -1,1 +1,33 @@
-dsdfd
+{
+  "blocked_packages": [
+    "com.chelpus.lackypatch",
+    "com.purple.canary",
+    "com.reqable.android",
+    "com.overlook.android.fing",
+    "com.zimperium.zanti",
+    "org.csploit.android",
+    "com.waterfall.httpdump",
+    "lv.n3o.shark",
+    "com.emanuelef.remote_capture.pro",
+    "com.erdeljac.packetsniffer",
+    "ru.kirlisakow.wicap",
+    "lv.n3o.sharkreader",
+    "com.scheffsblend.scheffsblenddrony",
+    "org.proxydroid",
+    "com.termux",
+    "org.torproject.android",
+    "cz.mroczis.netmonster",
+    "com.guoshi.httpcanary",
+    "app.greyshirts.sslcapture",
+    "com.emanuelef.remote_capture",
+    "com.minhui.networkcapture",
+    "com.httptoolkit.android",
+    "com.apy.intercepter",
+    "com.ninexgen.networksnifferpro",
+    "packet.sniffer.rtcw",
+    "com.tcpdump.arm",
+    "com.debug.proxy",
+    "com.linev.log",
+    "com.kali.netsniff"
+  ]
+}
