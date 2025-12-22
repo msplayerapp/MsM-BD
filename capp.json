@@ -1,4 +1,4 @@
 {
-  "status": "active",
-  "auth": "MsM"
+  "app_status": true,
+  "password": "12345"
 }
